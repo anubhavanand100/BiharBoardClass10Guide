@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Bihar Board Class 10 Guide",
+    "slug": "bihar-board-class-10-guide",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
